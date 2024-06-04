@@ -1,0 +1,14 @@
+D:\DrivingAge\DrivingAge\bin\Debug\net8.0\DrivingAge.exe
+D:\DrivingAge\DrivingAge\bin\Debug\net8.0\DrivingAge.deps.json
+D:\DrivingAge\DrivingAge\bin\Debug\net8.0\DrivingAge.runtimeconfig.json
+D:\DrivingAge\DrivingAge\bin\Debug\net8.0\DrivingAge.dll
+D:\DrivingAge\DrivingAge\bin\Debug\net8.0\DrivingAge.pdb
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.AssemblyInfoInputs.cache
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.AssemblyInfo.cs
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.csproj.CoreCompileInputs.cache
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.dll
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\refint\DrivingAge.dll
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.pdb
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\DrivingAge.genruntimeconfig.cache
+D:\DrivingAge\DrivingAge\obj\Debug\net8.0\ref\DrivingAge.dll
